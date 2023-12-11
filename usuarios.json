@@ -1,0 +1,21 @@
+{
+  "quantidade": 2,
+  "usuarios": [
+    {
+      "nome": "natanael",
+      "sobrenome": "lino",
+      "idade": 21,
+      "curso": "ciencia da computa\u00e7ao",
+      "instituicao": "ifce",
+      "_id": "D8tlDpMU0t"
+    },
+    {
+      "nome": "vitoria",
+      "sobrenome": "tavares",
+      "idade": 19,
+      "curso": "estatistica",
+      "instituicao": "ufc",
+      "_id": "bPnZsJzmqp"
+    }
+  ]
+}
